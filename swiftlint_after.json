@@ -1,0 +1,173 @@
+[
+  {
+    "character" : 11,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/ROMLoader.swift",
+    "line" : 29,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Error",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/ROMLoader.swift",
+    "line" : 25,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Error",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 1,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/ROMLoader.swift",
+    "line" : 28,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Error",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/Disassembler.swift",
+    "line" : 52,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Error",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/main.swift",
+    "line" : 16,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Error",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/main.swift",
+    "line" : 19,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Error",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 3,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/main.swift",
+    "line" : 21,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Error",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 1,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/main.swift",
+    "line" : 23,
+    "reason" : "Opening braces should be preceded by a single space and on the same line as the declaration",
+    "rule_id" : "opening_brace",
+    "severity" : "Error",
+    "type" : "Opening Brace Spacing"
+  },
+  {
+    "character" : 11,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 37,
+    "reason" : "Prefer at least one space after slashes for comments",
+    "rule_id" : "comment_spacing",
+    "severity" : "Error",
+    "type" : "Comment Spacing"
+  },
+  {
+    "character" : 5,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 11,
+    "reason" : "Function should have complexity 10 or less; currently complexity is 43",
+    "rule_id" : "cyclomatic_complexity",
+    "severity" : "Error",
+    "type" : "Cyclomatic Complexity"
+  },
+  {
+    "character" : 12,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 11,
+    "reason" : "Function body should span 50 lines or less excluding comments and whitespace: currently spans 84 lines",
+    "rule_id" : "function_body_length",
+    "severity" : "Error",
+    "type" : "Function Body Length"
+  },
+  {
+    "character" : 13,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 13,
+    "reason" : "Variable name 'n' should be between 3 and 40 characters long",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 13,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 14,
+    "reason" : "Variable name 'x' should be between 3 and 40 characters long",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 13,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 15,
+    "reason" : "Variable name 'y' should be between 3 and 40 characters long",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 13,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 16,
+    "reason" : "Variable name 'kk' should be between 3 and 40 characters long",
+    "rule_id" : "identifier_name",
+    "severity" : "Error",
+    "type" : "Identifier Name"
+  },
+  {
+    "character" : 1,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 4,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Error",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 1,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 5,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Error",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 1,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 36,
+    "reason" : "Lines should not have trailing whitespace",
+    "rule_id" : "trailing_whitespace",
+    "severity" : "Error",
+    "type" : "Trailing Whitespace"
+  },
+  {
+    "character" : 5,
+    "file" : "/Users/wark/Documents/code/xcode/CHIP8Disassembler/CHIP8Disassembler/InstructionDecoder.swift",
+    "line" : 5,
+    "reason" : "Limit vertical whitespace to a single empty line; currently 2",
+    "rule_id" : "vertical_whitespace",
+    "severity" : "Error",
+    "type" : "Vertical Whitespace"
+  }
+]
